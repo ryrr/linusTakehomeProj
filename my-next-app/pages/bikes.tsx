@@ -75,7 +75,7 @@ export default function BikesPage() {
     if (!formData.price || formData.price <= 0) {
       newErrors.price = 'Price must be a positive number';
     }
-    if (!formData.quantity || formData.quantity < 0 || !Number.isInteger(formData.quantity)){
+    if (!formData.quantity || formData.quantity < 0 || !Number.isInteger(Number(formData.quantity))){
       newErrors.quantity = 'Quantity must be a non-negative integer';
     }
     return newErrors
