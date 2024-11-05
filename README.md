@@ -24,5 +24,5 @@ takehome proj for linus
 - Adheres to the document specs, in CRUD operations and page viewing, the page is responsive to re-sizing
 
 # Video
-[Link HERE](google.com)
+[Link HERE](https://www.loom.com/share/9539e2a1773b4d78ab9c20fbc5b74b5d?sid=9d806a65-0d03-4872-81c1-81e696ad787a)
 
